@@ -1,0 +1,5 @@
+.venv/
+*.db
+*.wal
+data/
+.DS_Store
